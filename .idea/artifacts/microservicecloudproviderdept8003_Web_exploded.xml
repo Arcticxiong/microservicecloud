@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="microservicecloudproviderdept8003:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/microservicecloudproviderdept8003_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="microservicecloudproviderdept8003/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="microservicecloudproviderdept8003" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.13.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
